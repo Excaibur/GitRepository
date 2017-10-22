@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="/Users/excalibur/Documents/EShop/lib/javax.jms.jar" />
+    <archive path="/Users/excalibur/Documents/EShop/lib/javax.servlet.jar" />
+    <archive path="/Users/excalibur/Documents/EShop/lib/javax.servlet.jsp.jar" />
+    <archive path="/Users/excalibur/Documents/EShop/lib/javax.ejb.jar" />
+    <archive path="/Users/excalibur/Documents/EShop/lib/javax.annotation.jar" />
+    <archive path="/Users/excalibur/Documents/EShop/lib/javax.transaction.jar" />
+    <archive path="/Users/excalibur/Documents/EShop/lib/javax.resource.jar" />
+    <archive path="/Users/excalibur/Documents/EShop/lib/javax.persistence.jar" />
+  </library>
+</eclipse-userlibraries>
+
